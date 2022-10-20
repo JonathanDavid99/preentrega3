@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #092b5a;
+  color: white;
+  font-family: "Courier New", Courier, monospace;
+  padding: 0 1.5em;
+}
+
+.content {
+  max-width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.5em;
+}
+
+.logo {
+  text-align: center;
+  font-size: #260796;
+}
+
+.logo span {
+  color: yellow;
+}
+
+.contact-wrapper {
+  box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.3);
+}
+
+.contact-wrapper {
+  padding: 1em;
+}
+
+.contact-form {
+  background-color: #092b5a;
+}
+
+.contact-form form {
+  margin: 0;
+  padding: 1em;
+}
+
+.contact-form form button,
+.contact-form form input,
+.contact-form form textarea {
+  width: 100%;
+  padding: 0.7em;
+  border: none;
+  background: none;
+  border-bottom: 1px solid yellow;
+  color: aliceblue;
+  outline: 0;
+}
+
+.contact-form form button {
+  background-color: #092b5a;
+  border: 0;
+  text-transform: uppercase;
+  padding: 1em;
+}/*# sourceMappingURL=contacto.css.map */

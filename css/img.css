@@ -1,77 +1,67 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-body{
-    background-color: #092b5a;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-.principal{
-    text-align: center;
-    height: 75px;
-    background-color: #260796;
-    color: yellow;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
-}
-#cancha{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.frasecancha{
-    text-align: center;
-    color: white;
-}
-.copastitulos{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.frasecopastitulos{
-    text-align: center;
-    color: white;
-
+body {
+  background-color: #092b5a;
 }
 
-.jugadores{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-}
-.frasejugadores{
-    text-align: center;
-    color: white;
-
-
+.principal {
+  text-align: center;
+  height: 75px;
+  background-color: #260796;
+  color: yellow;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
 }
 
-.pie-pagina .grupo2{
-    background-color: #260796;
-    padding: 15px 10px;
-    text-align: center;
-    color: yellow;
-}
-.pie-pagina .grupo2 small{
-    font-size: 15px;
+#cancha {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
+.frasecancha {
+  text-align: center;
+  color: white;
+}
 
+.copastitulos {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-@media only screen and (min-width: 600px){}
+.frasecopastitulos {
+  text-align: center;
+  color: white;
+}
 
+.jugadores {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-@media only screen and (min-width: 768px) {}
+.frasejugadores {
+  text-align: center;
+  color: white;
+}
 
+.pie-pagina .grupo2 {
+  background-color: #260796;
+  padding: 15px 10px;
+  text-align: center;
+  color: yellow;
+}
 
-@media only screen and (min-width: 992px) {}
-
-
-@media only screen and (min-width: 1200px){}
+.pie-pagina .grupo2 small {
+  font-size: 15px;
+}/*# sourceMappingURL=img.css.map */
